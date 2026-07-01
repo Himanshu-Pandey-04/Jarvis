@@ -1,0 +1,52 @@
+{
+  "azkaban": {
+    "designer": "C:/Users/Hp43134/Desktop/BI/EM1-Datasight/Azkaban/Azkaban Workflow Designer_APAC/Azkaban Workflow Designer v3.1/"
+  },
+  "RDCs": {
+    "Cmd": "C:/Users/hp43134/Desktop/BI/RDCs/RDC CMD.rdp",
+    "Chrome": "C:/Users/hp43134/Desktop/BI/RDCs/RDC Chrome.rdp",
+    "Putty": "C:/Users/hp43134/Desktop/BI/RDCs/RDC Putty.rdp",
+    "SQL-WB": "C:/Users/hp43134/Desktop/BI/RDCs/RDC SQL WB.rdp",
+    "FileZilla": "C:/Users/hp43134/Desktop/BI/RDCs/RDC Filezilla.rdp"
+  },
+  "Websites": {
+    "veeva-wb": "https://workbench.developerforce.com/query.php",
+    "mstr": "https://mst-bi.apac.zsservices.com/MSTRADFSWEB/asp/Main.aspx?",
+    "citrix": "https://myworkspace-am.boehringer-ingelheim.com/Citrix/BIStore4Web",
+    "jira": "https://jira.biscrum.com/browse/",
+    "langfuse": "https://1customer.boehringer-ingelheim.com/langfuse",
+    "bitbucket": "https://bitbucket.org/zs_businesstech/workspace/overview/",
+    "ZS SharePoint sites - MyProjectSites": "https://zsassociates.sharepoint.com/SitePages/MyProjectSites.aspx",
+    "BI ZDH Migration Request - Employee Center": "https://zs.service-now.com/esc?id=sc_cat_item&table=sc_cat_item&sys_id=d0010f5d1b077810456c99b4bd4bcb1d&recordUrl=com.glideapp.servicecatalog_cat_item_view.do%3Fv%3D1&sysparm_id=d0010f5d1b077810456c99b4bd4bcb1d",
+    "RD Web Access": "https://mycloud.zs.com/RDWeb/Pages/en-US/Default.aspx",
+    "Time Entry - SAP NetWeaver Portal": "https://zsap.zs.local/irj/portal"
+  },
+  "ZS": {
+    "Cab Booking Website": "https://zs.routematic.com/SchedulerExt/DailyScheduler",
+    "ZS Referral": "https://internal-zs.icims.com/jobs/search?hashed=-484213077&back=none&redirect=search"
+  },
+  "SNOW": {
+    "Incident SLAs": "https://boehringer.service-now.com/now/nav/ui/classic/params/target/incident_sla_list.do%3Fsysparm_query%3Dinc_assignment_group%253Da15e8070eb8b9a10b318f8f2dad0cdb0%255Etaskslatable_sla%253D%255EORtaskslatable_sla%253Df3b956b5db35ffc0acacff261d961936%255EORtaskslatable_sla%253Dfdc0eea71b0de550f7daed7f7b4bcb30%255EORtaskslatable_sla%253Dd820aaef1bc9e550f7daed7f7b4bcb33%255Etaskslatable_u_group%253Da15e8070eb8b9a10b318f8f2dad0cdb0%255Einc_stateIN1%252C2%252C3%26sysparm_first_row%3D1%26sysparm_view%3D",
+    "All Problems": "https://boehringer.service-now.com/now/nav/ui/classic/params/target/problem_list.do%3Fsysparm_nostack%3Dtrue%26sysparm_query%3Dactive%253Dtrue%255Eassignment_group%253Da15e8070eb8b9a10b318f8f2dad0cdb0%26sysparm_first_row%3D1%26sysparm_view%3D",
+    "All Incidents": "https://boehringer.service-now.com/now/nav/ui/classic/params/target/incident_list.do%3Fsysparm_query%3Dactive%253Dtrue%255Eassignment_group%253Da15e8070eb8b9a10b318f8f2dad0cdb0%255Estate!%253D6%255EGROUPBYhold_reason%26sysparm_first_row%3D1%26sysparm_view%3Ddefault_view"
+  },
+  "ZAIDYN": {
+    "ZDH-Dev": "https://idm.dev.zsservices.com/bing/IdentityManager/app/Web/MyAccount.aspx?forcelogin=true",
+    "ZDH-Stg": "https://idm.staging.zsservices.com/Bing/IdentityManager-SSO/app/Web/MyAccount.aspx?forcelogin=true",
+    "ZDH-Prod": "https://idm.zsservices.com/Bing/IdentityManager-SSO/app/Web/MyAccount.aspx?forcelogin=true"
+  },
+  "migration": {
+    "web-loc": "https://zs.service-now.com/sp?id=ticket&is_new_order=true&table=sc_req_item&sys_id=ff29e0eb4758121475c09d8d416d4343&view=ess_portal",
+    "dev-stg": "C:/Users/Hp43134/Desktop/BI/EM1-Datasight/Migration/DEV-to-STG.xlsx",
+    "stg-prod": "C:/Users/Hp43134/Desktop/BI/EM1-Datasight/Migration/STG-to-PROD.xlsx",
+    "dev-prod": "C:/Users/hp43134/Desktop/BI/EM1-Datasight/Migration/DEV-to-PROD.xlsx"
+  },
+  "tableau": {
+    "prod": "https://tbl-bi.zsservices.com/#/signin",
+    "stg": "https://tbl-bi.apac.staging.zsservices.com/#/site/BIDatasight/explore"
+  },
+  "essential documents": {
+    "URLs & Credentials MaxAI": "https://zsassociates.sharepoint.com/:x:/r/sites/mst-0116US0054/Shared%20Documents/General/URLs%20and%20Credentials%20Max_AI.xlsx?d=w57542ba66289462db7931d77f1ea7e6f&csf=1&web=1&e=06eWbO",
+    "1C Daily Status Tracker": "https://zsassociates.sharepoint.com/:x:/r/sites/mst-0116US0054/Shared%20Documents/General/User%20Observations%20and%20SNOW/1C%20User%20Observations.xlsx?d=w8571ed6b8a9d4a50b0dea3789a1dbcf4&csf=1&web=1&e=9bf7KD"
+  }
+}
